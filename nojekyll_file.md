@@ -1,0 +1,1 @@
+# Este archivo está vacío de forma intencional para desactivar el procesamiento de Jekyll en GitHub Pages.
